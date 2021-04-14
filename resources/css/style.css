@@ -23,3 +23,8 @@ h2 {
     font-size: 21px;
     color: gray;
 }
+.brand {
+    text-align: right;
+    color: gray;
+    font-size: 30px;
+}
