@@ -8,6 +8,12 @@ h1 {
     font-weight: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
 .link_a {
     color: aquamarine;
     font-size: 16px;
